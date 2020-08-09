@@ -1,3 +1,4 @@
+A SNU-centric web and mobile app designed to help students and teachers in our university with course registration, attendance and timetable management built using React-Native, Bootstrap, JavaScript and Firebase realtime database.
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
