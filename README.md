@@ -24,7 +24,7 @@ We believe the features offered by the tool greatly extend the functionality of 
 
 ## Frontend
 
-The implementation of the front page is done with HTML5, CSS3 and JavaScript using the Materialize framework.
+The implementation of the front end is done with HTML5, CSS3 and JavaScript using the Materialize framework.
 
 ## Backend
 
