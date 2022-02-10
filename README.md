@@ -1,39 +1,37 @@
-A SNU-centric web application designed to help students and teachers in our university with course registration, attendance and timetable management built using React-Native, Bootstrap, JavaScript and Firebase realtime database.
-<p align="center">
-  <a href="http://materializecss.com/">
-    <img src="http://materializecss.com/res/materialize.svg" width="150">
-  </a>
-</p>
-
-<h3 align="center">MaterializeCSS</h3>
+# ERP Assistant  <img src="https://github.com/rishikadwarak/ERP-Assistant/blob/master/erpasst_logo.png" alt="drawing" width="30"/>
 
 <p align="center">
-  Materialize, a CSS Framework based on material design.
-  <br>
-  <a href="http://materializecss.com/"><strong>-- Browse the docs --</strong></a>
-  <br>
-  <br>
-  <a href="https://travis-ci.org/Dogfalo/materialize">
-    <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
-  </a>
-  <a href="https://badge.fury.io/js/materialize-css">
-    <img src="https://badge.fury.io/js/materialize-css.svg" alt="npm version badge">
-  </a>
-  <a href="https://cdnjs.com/libraries/materialize">
-    <img src="https://img.shields.io/cdnjs/v/materialize.svg" alt="CDNJS version badge">
-  </a>
-  <a href="https://david-dm.org/Dogfalo/materialize">
-    <img src="https://david-dm.org/Dogfalo/materialize/status.svg" alt="dependencies Status badge">
-    </a>
-  <a href="https://david-dm.org/Dogfalo/materialize#info=devDependencies">
-    <img src="https://david-dm.org/Dogfalo/materialize/dev-status.svg" alt="devDependency Status badge">
-  </a>
-  <a href="https://gitter.im/Dogfalo/materialize">
-    <img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter badge">
-  </a>
+  <img src="https://github.com/rishikadwarak/ERP-Assistant/blob/master/erp_asst_pic.png" alt="drawing" width="600" />
 </p>
 
-## Table of Contents
+<br>
+ERP assistant is a customised university-level web application designed to assist with course registration, attendance and timetable management for students and professors alike.
+
+It is a nifty tool developed in order to was to extend the functionality that the university ERP site provides. The University ERP site is the most populary used for timetable, course registration and attendance information. Students and Professors use the information provided on this site to work their day around it by doing calculations to solve everyday problems like deciding which courses to enroll in without a timetable clash, finding a commonn free slot amongst the students so that a professor can schedule an extra class or lab, or even something basic such as calculating how many classes and labs one has to attend in order to meet the course's attendance criteria.
+
+ERP Assistant aims to provide a solution to this by extending the ERP by automating all these manual calculations done by the users.
+
+## Features
+- For Faculty: A common slot finder for the professor as well as all students enrolled to schedule extra classes.
+- For students: Attendance Tracker & Calculator to track how many classes or labs they can attend and afford to skip in order to meet attendance criteria.
+- For students: Course Finder which allows students to view which courses fit into their timetable without any timetable clashes so that they can enroll in them with ease, making the course registration time way more efficient.
+ 
+We believe the features offered by the tool greatly extend the functionality of the ERP and make it much more useful for the professors as well as the student community of Shiv Nadar University. 
+
+#### Update: ERP Assistant now has a accompanying Mobile App has been developed is currently being tested with the Dean’s office to release APK to be used by students and professors in Shiv Nadar University. 
+
+## Frontend
+
+The implementation of the front page is done with HTML5, CSS3 and JavaScript using the Materialize framework.
+
+## Backend
+
+The project uses Firebase realtime database. It is a cloud-hosted NoSQL database that lets us store and sync data between our users in realtime.
+
+
+
+
+<!-- ## Table of Contents
 - [Quickstart](#quickstart)
 - [Documentation](#documentation)
 - [Supported Browsers](#supported-browsers)
@@ -90,3 +88,4 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 
 ## Copyright and license
 Code Copyright 2018 Materialize. Code released under the MIT license.
+ -->
